@@ -6,7 +6,7 @@ from datetime import datetime
 from threading import Timer
 
 # Specify the folder where screenshots will be saved
-SCREENSHOT_FOLDER = "flux_screenshots"
+SCREENSHOT_FOLDER = "../flux_screenshots"
 
 
 def clear_directory(directory):
