@@ -1,4 +1,5 @@
 flux_screenshots/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -126,8 +127,8 @@ celerybeat.pid
 .env
 .venv
 env/
-myenv/
 venv/
+myenv/
 ENV/
 env.bak/
 venv.bak/
